@@ -7,6 +7,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 To identify key elements within a reference image and use prompt engineering techniques to generate an image as close as possible to the original image using AI image generation tools.
 
 # ALGORITHM
+```
    Step 1:
       Select the reference image.
    Step 2:
@@ -27,6 +28,7 @@ To identify key elements within a reference image and use prompt engineering tec
        Generate the final image using the refined prompt.
     Step 7:
        Compare the generated image with the original image and note the similarities and differences.
+```
 
 # REFERENCE IMAGE ANALYSIS
     Image 1: Butterfly Coloring Page
